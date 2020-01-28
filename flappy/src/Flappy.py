@@ -1,10 +1,7 @@
 import pygame
 from pygame.locals import *
 
-"""
-Okay , we want an nice architecture and nice access to variables
 
-"""
 
 def loadResource(name):
     return pygame.image.load(name)
